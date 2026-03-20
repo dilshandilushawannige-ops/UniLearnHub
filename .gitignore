@@ -1,21 +1,15 @@
 # dependencies
 node_modules/
-frontend/node_modules/
-backend/node_modules/
+
+# build folders
+dist/
+
+# environment variables
+.env
+.env.*
 
 # vite cache
 .vite/
 
-# build
-dist/
-build/
-
-# env
-.env
-
 # logs
 *.log
-
-# IDE
-.vscode/
-.idea/
