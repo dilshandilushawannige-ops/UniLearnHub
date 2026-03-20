@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# vite cache
+.vite/
+
+# build
+dist/
+build/
+
+# env
+.env
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
